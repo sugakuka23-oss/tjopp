@@ -95,7 +95,7 @@ jobs:
         python edu_mail_generator.py
     
     - name: Upload generated accounts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: always()
       with:
         name: generated-accounts
