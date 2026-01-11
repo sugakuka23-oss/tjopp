@@ -1,0 +1,10 @@
+{
+    "browser": "chrome_undetected",
+    "headless": false,
+    "timeout": 60,
+    "retry_attempts": 3,
+    "delay_between_actions": 0.7,
+    "captcha_timeout": 200,
+    "output_file": "generated_accounts.txt",
+    "log_level": "INFO"
+}

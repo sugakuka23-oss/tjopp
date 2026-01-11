@@ -1,0 +1,16 @@
+#### Cache ####
+__pycache__/
+*.py[cod]
+
+#### Debug Files ####
+play.py
+play1.py
+play2.py
+
+webdriver/
+t_old.py
+t.py
+t1.py
+t2.py
+*.envs
+
